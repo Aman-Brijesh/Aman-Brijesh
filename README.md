@@ -1,16 +1,24 @@
-## Hi there 👋
+# Aman Brijesh
 
-<!--
-**Aman-Brijesh/Aman-Brijesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student at MIT Manipal | Aspiring Silicon Engineer
+I'm Interested in Chip Design, Computer Architecture, and Digital Design
+I'm Currently Working on
 
-Here are some ideas to get you started:
+- Building a 32 Bit CPU
+- Hackathons and other experimental and fun side projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Socials:
+
+[![Insta](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/amanb_06?igsh=MXJ6aWozYXljeW53Mw==) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:amanbrijesh06@gmail.com)
+
+# My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=verilog,html,css,js,ts,c,cpp,python,arch,linux,git)](https://skillicons.dev)
+
+# Stats
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-brijesh&theme=radical" alt="Hoang Son's GitHub Streak" />
+</div>
