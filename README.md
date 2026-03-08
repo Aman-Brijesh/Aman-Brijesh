@@ -1,11 +1,21 @@
 # Aman Brijesh
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=false&vCenter=true&width=500&lines=Computer+Architecture;Chip+Design;Digital+Design)](https://git.io/typing-svg)
+
 Student at MIT Manipal | Aspiring Silicon Engineer
-I'm Interested in Chip Design, Computer Architecture, and Digital Design
-I'm Currently Working on
+
+### Focus Areas
+
+- Computer Architecture
+- Digital Design
+- Chip Design
+- Web Development
+
+### What im working on
 
 - Building a 32 Bit CPU
-- Hackathons and other experimental and fun side projects
+- Participating in hackathons
+- Other fun side projects
 
 ---
 
