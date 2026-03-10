@@ -29,10 +29,4 @@ Student at MIT Manipal | Aspiring Silicon Engineer
 
 # Stats
 
-<<<<<<< HEAD
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Aman-Brijesh&theme=radical)](https://git.io/streak-stats)
-=======
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-brijesh&theme=radical" alt="Aman's GitHub Streak"/>
-</div>
->>>>>>> cc72a30ba323663392317a754a3d6eb3458369a4
